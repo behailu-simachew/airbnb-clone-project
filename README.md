@@ -60,3 +60,6 @@ Main Features include but not limited to:
     A. user management, 
     B. property management, 
     C. booking system
+# API Security
+    key security measures that will be implemented e.g., authentication, authorization, rate limiting
+
