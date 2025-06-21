@@ -49,3 +49,8 @@ Key Highlights
 This structured approach ensures learners not only build technical skills but also adopt a mindset geared toward problem-solving, scalability, and industry-grade project execution.
 ## Team Roles
     Implement the core of an app—its algorithms and business logic. Experienced back-end developers not only write code but also do the tasks of an architect—for example, devise an           app architecture or design and implement the necessary integrations.
+## Technology Stack
+List of Technologies to be used in the project
+    1. Django: a web framework for building RESTful APIs
+    2. PostgreSQL: help developers build applications, administrators to protect data integrity and build fault-tolerant environments, and   help you manage your data no matter how big or small the dataset
+
