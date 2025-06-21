@@ -62,4 +62,5 @@ Main Features include but not limited to:
     C. booking system
 # API Security
     key security measures that will be implemented e.g., authentication, authorization, rate limiting
-
+## CI/CD Pipeline
+    Tools: GitHub Actions, Docker
