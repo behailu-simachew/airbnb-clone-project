@@ -55,3 +55,8 @@ List of Technologies to be used in the project
     2. PostgreSQL: help developers build applications, administrators to protect data integrity and build fault-tolerant environments, and   help you manage your data no matter how big or small the dataset
 ## Database Design
 key entities required for the project are Users, Properties, Bookings, Reviews, and Payments.
+## Feature Breakdown
+Main Features include but not limited to:
+    A. user management, 
+    B. property management, 
+    C. booking system
