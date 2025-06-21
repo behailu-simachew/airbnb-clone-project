@@ -45,10 +45,7 @@ Key Highlights
     Implement and document key security measures to safeguard application data and ensure secure transactions.
 
     CI/CD Pipeline Integration:
-    Gain insights into setting up automated development pipelines, boosting efficiency and minimizing errors during the deployment phase.
-
-    Backend Developer Roles
-Implement the core of an app—its algorithms and business logic. Experienced back-end developers not only write code but also do the tasks of an architect—for example, devise an app architecture or design and implement the necessary integrations.
-    
-
+    Gain insights into setting up automated development pipelines, boosting efficiency and minimizing errors during the deployment phase.  
 This structured approach ensures learners not only build technical skills but also adopt a mindset geared toward problem-solving, scalability, and industry-grade project execution.
+    Team Roles
+        Implement the core of an app—its algorithms and business logic. Experienced back-end developers not only write code but also do the tasks of an architect—for example, devise an           app architecture or design and implement the necessary integrations.
